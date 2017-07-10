@@ -3,3 +3,6 @@ backups/
 elpa/
 ido.last
 init.el~
+ac-comphist.dat
+ede-projects.el
+semanticdb/
